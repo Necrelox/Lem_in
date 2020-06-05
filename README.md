@@ -8,9 +8,11 @@ pour arrivé à la/les chambre de fin(#end)
 ![Screenshot_20200605_115252](https://user-images.githubusercontent.com/57537266/83863287-6f3a3100-a723-11ea-9e4b-43fb0fccbb6b.png)
 
 
-nous avons parfois des chambres extern peu importe le nom.
+Nous avons parfois des chambres externe peu importe le nom.
+
 La/les chambre(s) (#start et #end) peut stocker un nombre illimité de fourmis ;
 tandis que les chambres externe ont un nombre limité de stockage de une fourmis.
+
 Nous pouvons retrouver un/des tunnel(s) représenté(s) par (a-b), reliant ainsi les chambres.
 
 ## Organisation :
