@@ -4,7 +4,7 @@
 
 ## Présentation :
 
-Le Lem-in est projet représentant une fourmilière que l'on peut générer avec :  ./gmin.pl > anthill
+Le Lem-in est un projet Epitech de première année représentant une fourmilière que l'on peut générer avec :  ./gmin.pl > anthill
 Le but de ce projet est de faire passé X fourmis de(s) chambre(s) de départ(#start)
 pour arrivé à la ou les chambre(s) de fin(#end)
 ![Screenshot_20200605_115252](https://user-images.githubusercontent.com/57537266/83863287-6f3a3100-a723-11ea-9e4b-43fb0fccbb6b.png)
@@ -27,7 +27,7 @@ Nous pouvons retrouver un ou des tunnel(s) représenté(s) par (a-b), reliant ai
 
 ## Presentation:
 
-The Lem-in is a project representing an ant farm that can be generated with: ./gmin.pl > anthill
+The Lem-in is a first year Epitech project Epitech representing an ant farm that can be generated with: ./gmin.pl > anthill
 The goal of this project is to make X ants pass from the starting chamber(s) (#start)
 to arrive at the end chamber(s) (#end)
 ![Screenshot_20200605_115252](https://user-images.githubusercontent.com/57537266/83863287-6f3a3100-a723-11ea-9e4b-43fb0fccbb6b.png)
