@@ -25,3 +25,23 @@ Nous pouvons retrouver un ou des tunnel(s) représenté(s) par (a-b), reliant ai
 
 # ENG
 
+## Presentation:
+
+The Lem-in is a project representing an ant farm that can be generated with: ./gmin.pl > anthill
+The goal of this project is to make X ants pass from the starting chamber(s) (#start)
+to arrive at the end chamber(s) (#end)
+![Screenshot_20200605_115252](https://user-images.githubusercontent.com/57537266/83863287-6f3a3100-a723-11ea-9e4b-43fb0fccbb6b.png)
+
+We sometimes have external chambers by any name.
+
+The chamber(s) (#start and #end) can store an unlimited number of ants;
+While the external chambers have a limited number of storage of one ant.
+We can find a tunnel(s) represented by (a-b), thus connecting the chambers.
+
+## Organization :
+* Parsed the ant farm.
+* Algorithm to move the ant(s).
+
+## Result:
+
+![Screenshot_20200605_115252](https://user-images.githubusercontent.com/57537266/83864400-f936c980-a724-11ea-8efc-bd7d8fb89e8a.png)
